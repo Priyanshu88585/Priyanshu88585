@@ -68,9 +68,9 @@ Bhopal, Madhya Pradesh — CGPA: **7.9**
 ## 📫 Contact & Connect
 - **Phone:** +91 8858576463  
 - **Email:** priyanshukesharwani885857@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/YOUR_LINKEDIN  
-- **LeetCode:** https://leetcode.com/YOUR_LEETCODE  
-- **Portfolio:** https://your-portfolio.example.com
+- **LinkedIn:** https://www.linkedin.com/in/priyanshu-kesharwani-57a525255/
+- **LeetCode:** https://leetcode.com/u/OutR5t3bfn/
+- **Portfolio:** https://priyanshu-s-portfolio-six.vercel.app/
 
 ---
 
