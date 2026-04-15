@@ -48,7 +48,7 @@ I specialize in building **scalable, production-ready web applications** with st
 ## 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,java,firebase,supabase,git,tailwind,bootstrap,gcp,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,java,firebase,supabase,git,tailwind,gcp,vscode" />
 </p>
 
 ---
