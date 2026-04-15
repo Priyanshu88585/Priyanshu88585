@@ -80,10 +80,6 @@ I specialize in building **scalable, production-ready web applications** with st
 - Created reusable UI components (buttons, cards, loaders, forms)
 - Added copy-to-clipboard snippets and responsive developer-friendly UI
 
-### 🔹 Portfolio Website
-- Modern personal portfolio showcasing projects and skills
-- Focused on clean UI, responsiveness, and performance
-
 ---
 
 ## 🏆 Achievements
