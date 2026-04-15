@@ -62,23 +62,29 @@ I specialize in building **scalable, production-ready web applications** with st
 - Followed best practices for clean, maintainable, and scalable code  
 
 ### Full Stack Developer Intern — Greenaria Buildtech
-- Worked on production-level web applications across frontend and backend  
-- Implemented API integrations and database-driven features  
-- Improved system performance and overall code quality  
+- Selected as a Full Stack Developer Intern at Greenaria Buildtech Pvt. Ltd., with a focus on building scalable and user-friendly web solutions.
+- Developed and maintained web applications using both front-end and back-end technologies to support efficient product delivery.
+- Contributed to API integration, database handling, and debugging to improve application stability and functionality.
+- Applied performance optimization and clean coding practices to deliver reliable, maintainable, and high-quality software.
 
 ---
 
 ## 🌟 Featured Projects
 
 ### 🔹 Sampark — Real-Time Communication Platform
-- Built using **Next.js, MongoDB, Prisma, Firebase, Socket.IO, WebRTC**
-- Features: OTP auth, JWT sessions, real-time chat, typing indicators, voice/video calling
-- Implemented groups, communities, media sharing, and Stripe integration
+- Engineered a full-stack web application delivering real-time user interaction and seamless frontend-backend integration.
+- Architected responsive UI/UX with optimized component rendering, improving user engagement and accessibility.
+- Developed and integrated RESTful APIs for efficient data handling, authentication, and scalable application logic.
+- Improved application performance through code optimization, reducing load time and enhancing responsiveness.
+- Implemented robust debugging and error-handling strategies to ensure high reliability in production.
+- Deployed and managed the application using modern hosting platforms, ensuring high availability and smooth CI/CD workflows.
+- Maintained clean, scalable code architecture following best practices for long-term project sustainability.
 
 ### 🔹 UISEN — UI Component Library
-- Built with **React, Tailwind CSS, JavaScript**
-- Created reusable UI components (buttons, cards, loaders, forms)
-- Added copy-to-clipboard snippets and responsive developer-friendly UI
+- Built UIsen, a scalable UI component library using React, Tailwind CSS, and JavaScript to accelerate frontend development.
+- Developed reusable components (buttons, cards, loaders, forms) with a clean, modular, and maintainable architecture.
+- Implemented copy-to-clipboard code snippets and designed a fully responsive, developer-friendly interface.
+- Optimized performance and followed industry best practices to ensure scalability, accessibility, and code efficiency.
 
 ---
 
