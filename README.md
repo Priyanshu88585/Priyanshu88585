@@ -36,7 +36,7 @@ I specialize in building **scalable, production-ready web applications** with st
 - Sampark - - - - - - - - - - -        https://sampark-inky.vercel.app/
 - InfiMotionX - - - - - - - - -        https://infi-motion-x.vercel.app/
 - PS5-Trailers- - - - - - - - -        Coming soon
-- UISEN - - - - - - - - - - - - -       https://uisen.vercel.app/
+- UISEN - - - - - - - - - - - - -      https://uisen.vercel.app/
 - Greenaria Buildtech - - - -        https://greenaria-buildtech.vercel.app/
 
 
