@@ -116,7 +116,7 @@ Technocrats Institute of Technology, Bhopal
 
 - 📧 Email: priyanshukesharwani885857@gmail.com  
 - 🔗 LinkedIn: linkedin.com/in/priyanshu-kesharwani-57a525255  
-- 💻 LeetCode: leetcode.com/u/OutR5t3bfn/  
+- 💻 GitHub: https://github.com/Priyanshu88585
 - 🌐 Portfolio: priyanshu-s-portfolio-six.vercel.app  
 
 ---
