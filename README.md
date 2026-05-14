@@ -112,19 +112,12 @@ Technocrats Institute of Technology, Bhopal
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let’s Connect
 
 - Email: priyanshukesharwani885857@gmail.com  
 - LinkedIn: https://linkedin.com/in/priyanshu-kesharwani-57a525255  
 - GitHub: https://github.com/Priyanshu88585
 - Portfolio: https://priyanshu-s-portfolio-six.vercel.app  
-
-
-## 📫 Let’s Connect
-
-| 🌐 Website | 💼 LinkedIn | 🐙 GitHub | 📧 Email |
-| :----------: | :--------: | :--------: | :-------: | :------: |
-| [priyanshu](https://priyanshu-s-portfolio-six.vercel.app) | [in/priyanshu](https://linkedin.com/in/priyanshu-kesharwani-57a525255 ) | [@priyanshu]([https://github.com/DavidHDev](https://github.com/Priyanshu88585)) | [priyanshukesharwani885857@gmail.com](mailto:priyanshukesharwani885857@gmail.com) |
 
 ---
 
