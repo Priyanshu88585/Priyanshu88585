@@ -39,17 +39,15 @@ I specialize in building **scalable, production-ready web applications** with st
 - PS5-Trailers- - - - - - -        { Coming soon }
 - Greenaria Buildtech - -        https://greenaria-buildtech.vercel.app/
 
-
 ---
 
-## 🧠 Core Strengths
+## 🛠️ Tech Stack
 
-- Full-Stack Development (MERN)
-- React / Next.js / JavaScript
-- Java & Data Structures
-- UI Engineering & Component Systems
-- API Design & Database Integration
-- Debugging, Optimization & Clean Code
+- **Languages & Frameworks:** JavaScript (ES6+), TypeScript, React, Next.js, Svelte, Vue, Angular  
+- **Styling & Design:** CSS3, SASS (SCSS), Less, Tailwind CSS, Figma 
+- **Backend & Tools:** Node.js, Express, Firebase, Supabase, MongoDB, Git  
+- **Testing & QA:** Jest
+- **Other:** WebGL, THREE.js, GSAP, Motion, Ogl
 
 ---
 
