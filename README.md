@@ -49,7 +49,6 @@ I specialize in building **scalable, production-ready web applications** with st
 - **Testing & QA:** Jest
 - **Other:** WebGL, THREE.js, GSAP, Motion, Ogl
 
----
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,java,firebase,supabase,git,tailwind,gcp,vscode" />
