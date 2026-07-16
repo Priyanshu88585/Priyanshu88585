@@ -1,139 +1,355 @@
-<!-- GitHub Profile README for Priyanshu Kesharwani -->
+<!-- ========================================================= -->
+<!--            GitHub Profile README - Priyanshu              -->
+<!-- ========================================================= -->
 
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00F5FF,50:007CF0,100:6A5AF9&text=Priyanshu%20Kesharwani&fontSize=50&fontAlignY=40&fontColor=ffffff&animation=fadeIn"/>
+
+# Hi 👋 I'm Priyanshu Kesharwani
+
+### 🚀 Full Stack Developer • MERN • Next.js • Java • System Design
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Scalable+Web+Applications;Clean+Architecture+%7C+Modern+UI;Always+Learning+New+Technologies"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Priyanshu88585&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+<a href="mailto:priyanshukesharwani885857@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/priyanshu-kesharwani-57a525255/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/Priyanshu88585">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://leetcode.com/u/OutR5t3bfn/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://priyanshu-s-portfolio-six.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Live-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+</div>
+
+---
+
+# 💫 About Me
+
+```yaml
+Name: Priyanshu Kesharwani
+
+Role:
+  Full Stack Developer
+
+Education:
+  B.Tech Computer Science Engineering
+
+Focus:
+  - MERN Stack
+  - Next.js
+  - Java
+  - Backend Development
+  - UI Engineering
+  - System Design
+
+Currently Learning:
+  - Microservices
+  - Docker
+  - Kubernetes
+  - AWS
+  - Three.js
+  - AI Integration
+
+Open To:
+  - Full Time
+  - Freelance
+  - Open Source
+```
+
+---
+
+# 🚀 Current Projects
+
+| Project | Description | Live |
+|---------|-------------|------|
+| 🚀 UISEN | Modern UI Component Library | https://uisen-io.vercel.app |
+| 💬 Sampark | Real Time Chat Platform | https://sampark-inky.vercel.app |
+| 🎬 InfiMotionX | Motion Animation Platform | https://infi-motion-x.vercel.app |
+| 🌿 Greenaria Buildtech | Company Website | https://greenaria-buildtech.vercel.app |
+| 🎮 PS5 Trailer Platform | Coming Soon | Soon |
+
+---
+
+# ⚙️ Tech Stack
+
+## Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=js,ts,java,python"/>
+
+</p>
+
+---
+
+## Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,svelte,angular,tailwind,html,css,sass"/>
+
+</p>
+
+---
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase,mongodb,mysql,postgres,prisma"/>
+
+</p>
+
+---
+
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,postman,linux,vercel"/>
+
+</p>
+
+---
+
+## Animation
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=threejs"/>
+
+GSAP • Motion • OGL • WebGL
+
+</p>
+
+---
+
+# 💼 Experience
+
+## Full Stack Developer Intern
+
+### Coding Thinker
+
+- Built production-ready web applications
+- Developed reusable UI components
+- Created REST APIs
+- Performance Optimization
+- Code Refactoring
+- Bug Fixing
+- Git Collaboration
+
+---
+
+### Greenaria Buildtech Pvt. Ltd.
+
+- Full Stack Development
+- Frontend Architecture
+- Backend APIs
+- Database Design
+- Authentication
+- Responsive UI
+- Performance Improvements
+
+---
+
+# 🌟 Featured Projects
+
+## 🚀 UISEN
+
+Modern React UI Component Library
+
+### Features
+
+- Reusable Components
+- Responsive
+- Copy Code
+- Tailwind
+- Dark Mode
+- Modern Design
+
+🔗 https://uisen-io.vercel.app
+
+---
+
+## 💬 Sampark
+
+Real Time Communication Platform
+
+### Built With
+
+- Next.js
+- Socket.io
+- MongoDB
+- Firebase
+- Authentication
+- Responsive Design
+
+🔗 https://sampark-inky.vercel.app
+
+---
+
+## 🎬 InfiMotionX
+
+Modern Motion UI Website
+
+- GSAP
+- Motion
+- Responsive
+- Smooth Animation
+
+🔗 https://infi-motion-x.vercel.app
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Priyanshu88585&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu88585&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Most Used Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu88585&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Priyanshu88585&theme=algolia&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu88585&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+> **Create the GitHub Action first (see below), then this image will work.**
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Priyanshu88585/Priyanshu88585/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🏅 Achievements
+
+🥇 LeetCode Weekly Contest Rank
+
+🥈 Coding Thinker Challenge Top 10
+
+📜 Google Certified
+
+📜 IBM Certified
+
+📜 AWS Cloud Practitioner Essentials
+
+---
+
+# 🎓 Education
+
+**B.Tech**
+
+Computer Science Engineering
+
+Technocrats Institute of Technology
+
+CGPA **7.9**
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Build SaaS Products
+- 🔥 Master System Design
+- ☁ Learn Kubernetes
+- 🤖 AI Integration
+- 🌍 Open Source Contributions
+
+---
+
+# 📫 Connect With Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00A3FF&width=750&height=45&lines=Hi+there+👋+I'm+Priyanshu+Kesharwani;Full-Stack+Developer+%7C+MERN+%7C+Java+%7C+DSA;Building+scalable%2C+clean%2C+and+user-friendly+web+products" />
-</p>
 
-<p align="center">
-  <a href="mailto:priyanshukesharwani885857@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/priyanshu-kesharwani-57a525255/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/OutR5t3bfn/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://priyanshu-s-portfolio-six.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Live-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
+<a href="mailto:priyanshukesharwani885857@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
 
----
+<a href="https://www.linkedin.com/in/priyanshu-kesharwani-57a525255/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-## 🚀 About Me
+<a href="https://github.com/Priyanshu88585">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-I’m **Priyanshu Kesharwani**, a **Computer Science Engineering graduate** from  
-**Technocrats Institute of Technology, Bhopal (CGPA: 7.9)**.
+<a href="https://leetcode.com/u/OutR5t3bfn/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
 
-I specialize in building **scalable, production-ready web applications** with strong focus on:
-- Clean architecture
-- Performance optimization
-- Reusable UI systems
-- End-to-end product development
+<a href="https://priyanshu-s-portfolio-six.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Live-000000?style=for-the-badge&logo=vercel"/>
+</a>
 
-## Letest Project
-- UISEN - - - - - - - - - -       https://uisen-io.vercel.app/
-- Sampark - - - - - - - - -        https://sampark-inky.vercel.app/
-- InfiMotionX - - - - - - -        https://infi-motion-x.vercel.app/
-- PS5-Trailers- - - - - - -        { Coming soon }
-- Greenaria Buildtech - -        https://greenaria-buildtech.vercel.app/
-
----
-
-## 🛠️ Tech Stack
-
-- **Languages & Frameworks:** JavaScript (ES6+), TypeScript, React, Next.js, Svelte, Vue, Angular  
-- **Styling & Design:** CSS3, SASS (SCSS), Less, Tailwind CSS, Figma 
-- **Backend & Tools:** Node.js, Express, Firebase, Supabase, MongoDB, Git  
-- **Testing & QA:** Jest
-- **Other:** WebGL, THREE.js, GSAP, Motion, Ogl
-
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,java,firebase,supabase,git,tailwind,gcp,vscode" />
 </p>
 
 ---
 
-## 💼 Experience
+# 💭 Dev Quote
 
-### Full Stack Developer Intern — Coding Thinker
-- Built scalable frontend and backend features for real-world applications  
-- Developed modular UI components and API-driven workflows  
-- Debugged performance issues and optimized application efficiency  
-- Followed best practices for clean, maintainable, and scalable code  
+<div align="center">
 
-### Full Stack Developer Intern — Greenaria Buildtech
-- Selected as a Full Stack Developer Intern at Greenaria Buildtech Pvt. Ltd., with a focus on building scalable and user-friendly web solutions.
-- Developed and maintained web applications using both front-end and back-end technologies to support efficient product delivery.
-- Contributed to API integration, database handling, and debugging to improve application stability and functionality.
-- Applied performance optimization and clean coding practices to deliver reliable, maintainable, and high-quality software.
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
 
 ---
 
-## 🌟 Featured Projects
+<div align="center">
 
-### 🔹 Sampark — Real-Time Communication Platform
-- Engineered a full-stack web application delivering real-time user interaction and seamless frontend-backend integration.
-- Architected responsive UI/UX with optimized component rendering, improving user engagement and accessibility.
-- Developed and integrated RESTful APIs for efficient data handling, authentication, and scalable application logic.
-- Improved application performance through code optimization, reducing load time and enhancing responsiveness.
-- Implemented robust debugging and error-handling strategies to ensure high reliability in production.
-- Deployed and managed the application using modern hosting platforms, ensuring high availability and smooth CI/CD workflows.
-- Maintained clean, scalable code architecture following best practices for long-term project sustainability.
+### ⭐ If you like my work, consider starring my repositories!
 
-### 🔹 UISEN — UI Component Library
-- Built UIsen, a scalable UI component library using React, Tailwind CSS, and JavaScript to accelerate frontend development.
-- Developed reusable components (buttons, cards, loaders, forms) with a clean, modular, and maintainable architecture.
-- Implemented copy-to-clipboard code snippets and designed a fully responsive, developer-friendly interface.
-- Optimized performance and followed industry best practices to ensure scalability, accessibility, and code efficiency.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:00F5FF,50:007CF0,100:6A5AF9"/>
 
----
-
-## 🏆 Achievements
-
-- 🥇 **LeetCode Weekly Contest 444:** Rank 3367 / 28,833  
-- 🥈 **Coding Thinker Challenge:** Rank 9 / 350  
-- 📜 Google & IBM Certifications (Project Management & Digital Strategy)
-
----
-
-## 🎓 Education
-
-**B.Tech — Computer Science Engineering**  
-Technocrats Institute of Technology, Bhopal  
-**CGPA: 7.9**
-
----
-
-## 📫 Let’s Connect
-
-- Email: priyanshukesharwani885857@gmail.com  
-- LinkedIn: https://linkedin.com/in/priyanshu-kesharwani-57a525255  
-- GitHub: https://github.com/Priyanshu88585
-- Portfolio: https://priyanshu-s-portfolio-six.vercel.app  
-
----
-
-## 🎯 Current Focus
-
-- Building production-grade full-stack applications  
-- Improving backend architecture & system design  
-- Writing scalable, reusable frontend code  
-- Practicing DSA & competitive programming  
-
----
-
-## 🤝 Open To
-
-- Full-time / Freelance Full-Stack or Frontend roles  
-- Open-source collaborations  
-- UI libraries & product engineering projects  
-
----
-
-<p align="center">
-  <i>Building scalable products with clean code and great user experience.</i>
-</p>
+</div>
