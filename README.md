@@ -30,7 +30,7 @@
 
 ---
 
-# 🚀 Current Projects
+Projects
 
 | Project | Description | Live |
 |---------|-------------|------|
