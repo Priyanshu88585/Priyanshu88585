@@ -4,8 +4,6 @@
   <img src="./assets/profile-hero-dark.svg" alt="Priyanshu Kesharwani - animated developer profile hero" width="100%">
 </picture>
 
----
-
 <a href="mailto:priyanshukesharwani885857@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
