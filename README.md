@@ -54,15 +54,15 @@
 
 ## Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,sass"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
 
 ## Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase,mongodb,mysql,postgres,prisma"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase,mongodb,postgres,prisma"/>
 
 ## Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,postman,linux,vercel"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,vercel"/>
 
 ## Animation
 
