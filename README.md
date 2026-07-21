@@ -6,6 +6,34 @@
 
 ---
 
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:priyanshukesharwani885857@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/priyanshu-kesharwani-57a525255/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/Priyanshu88585">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://leetcode.com/u/OutR5t3bfn/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://priyanshu-s-portfolio-six.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Live-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+</p>
+
+---
+
 # 🚀 Current Projects
 
 | Project | Description | Live |
@@ -136,19 +164,6 @@ Real Time Communication Platform
 
 ---
 
-## 🎬 InfiMotionX
-
-Modern Motion UI Website
-
-- GSAP
-- Motion
-- Responsive
-- Smooth Animation
-
-🔗 https://infi-motion-x.vercel.app
-
----
-
 # 📊 GitHub Analytics
 
 <div align="center">
@@ -156,26 +171,6 @@ Modern Motion UI Website
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Priyanshu88585&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu88585&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Most Used Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu88585&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Priyanshu88585&theme=algolia&column=4&margin-w=15&margin-h=15"/>
 
 </div>
 
@@ -203,20 +198,6 @@ Modern Motion UI Website
 
 ---
 
-# 🏅 Achievements
-
-🥇 LeetCode Weekly Contest Rank
-
-🥈 Coding Thinker Challenge Top 10
-
-📜 Google Certified
-
-📜 IBM Certified
-
-📜 AWS Cloud Practitioner Essentials
-
----
-
 # 🎓 Education
 
 **B.Tech**
@@ -229,58 +210,10 @@ CGPA **7.9**
 
 ---
 
-# 🎯 2026 Goals
-
-- 🚀 Build SaaS Products
-- 🔥 Master System Design
-- ☁ Learn Kubernetes
-- 🤖 AI Integration
-- 🌍 Open Source Contributions
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="mailto:priyanshukesharwani885857@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://www.linkedin.com/in/priyanshu-kesharwani-57a525255/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/Priyanshu88585">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://leetcode.com/u/OutR5t3bfn/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://priyanshu-s-portfolio-six.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Live-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
-</p>
-
----
-
-# 💭 Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
-
----
-
 <div align="center">
 
 ### ⭐ If you like my work, consider starring my repositories!
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:00F5FF,50:007CF0,100:6A5AF9"/>
+<img width="100%" hight="30%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:00F5FF,50:007CF0,100:6A5AF9"/>
 
 </div>
