@@ -58,15 +58,9 @@
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,svelte,angular,tailwind,html,css,sass"/>
-
-</p>
-
----
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,sass"/>
 
 ## Backend
-
-<p>
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase,mongodb,mysql,postgres,prisma"/>
 
