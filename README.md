@@ -48,15 +48,9 @@
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=js,ts,java,python"/>
-
-</p>
-
----
+<img src="https://skillicons.dev/icons?i=js,ts,java"/>
 
 ## Frontend
-
-<p>
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,sass"/>
 
@@ -64,23 +58,11 @@
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase,mongodb,mysql,postgres,prisma"/>
 
-</p>
-
----
-
 ## Tools
-
-<p>
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,postman,linux,vercel"/>
 
-</p>
-
----
-
 ## Animation
-
-<p>
 
 <img src="https://skillicons.dev/icons?i=threejs"/>
 
