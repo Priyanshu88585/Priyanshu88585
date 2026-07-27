@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
 </a>
 
-<a href="https://priyanshu-s-portfolio-six.vercel.app/">
+<a href="https://priyanshus-portfolio-zeta.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-Live-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
