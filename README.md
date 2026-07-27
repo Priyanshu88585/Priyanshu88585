@@ -4,7 +4,6 @@
   <img src="./assets/profile-hero-dark.svg" alt="Priyanshu Kesharwani - animated developer profile hero" width="100%">
 </picture>
 
----
 <div align="center">
 
 <p>
