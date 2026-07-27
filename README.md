@@ -5,7 +5,7 @@
 </picture>
 
 ---
-<div align="center"></div>
+<div align="center">
 
 <p>
   
@@ -30,6 +30,8 @@
 </a>
 
 </p>
+
+</div>
 
 ---
 
