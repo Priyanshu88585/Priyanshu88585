@@ -168,7 +168,7 @@
         <text x="532" y="382" font-size="13.3" font-weight="500" fill="#F8FAFC" opacity="0">+ contact   : github.com/Priyanshu88585<animate attributeName="opacity" values="0;1" dur=".32s" begin="2.14s" fill="freeze"/></text>
         <text x="532" y="410" font-size="14" font-weight="700" fill="#94A3B8" opacity="0">[ STACK ]<animate attributeName="opacity" values="0;1" dur=".32s" begin="2.40s" fill="freeze"/></text>
         <text x="532" y="430" font-size="13.3" font-weight="500" fill="#F8FAFC" opacity="0">{ React | Node.js | Express | MongoDB }<animate attributeName="opacity" values="0;1" dur=".32s" begin="2.53s" fill="freeze"/></text>
-        <text x="532" y="450" font-size="13.3" font-weight="500" fill="#F8FAFC" opacity="0">{ Tailwind | Java | Python | PostgreSQL }<animate attributeName="opacity" values="0;1" dur=".32s" begin="2.66s" fill="freeze"/></text>
+        <text x="532" y="450" font-size="13.3" font-weight="500" fill="#F8FAFC" opacity="0">{ Tailwind | Java | Next.js | PostgreSQL }<animate attributeName="opacity" values="0;1" dur=".32s" begin="2.66s" fill="freeze"/></text>
         <text x="532" y="478" font-size="14" font-weight="700" fill="#94A3B8" opacity="0">[ github ] [ linkedin ] [ leetcode ] [ portfolio ]<animate attributeName="opacity" values="0;1" dur=".32s" begin="2.92s" fill="freeze"/></text>
         <rect x="532" y="496" width="8" height="14" fill="url(#accent)"><animate attributeName="opacity" values="1;0;1" dur=".8s" repeatCount="indefinite"/></rect>
       </g>
