@@ -42,39 +42,37 @@
 | 🚀 UISEN | Modern UI Component Library | https://uisen-io.vercel.app |
 | 💬 Sampark | Real Time Chat Platform | https://sampark-inky.vercel.app |
 | 🎬 InfiMotionX | Motion Animation Platform | https://infi-motion-x.vercel.app |
-| 🌿 Greenaria Buildtech | Company Website | https://greenaria-buildtech.vercel.app |
 | 🎵 Bus Wala | Music Library | https://bus-wala-seven.vercel.app |
 | 🎮 PS5 Trailer Platform | Coming Soon | Soon |
+| 🌿 Greenaria Buildtech | Company Website | https://greenaria-buildtech.vercel.app |
+
 
 ---
 
 # ⚙️ Tech Stack
-
-## Languages
-
 <p>
 
 <img src="https://skillicons.dev/icons?i=js,ts,java"/>
-
-## Frontend
-
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
-
-## Backend
-
 <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase,mongodb,postgres,prisma"/>
-
-## Tools
-
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,vercel"/>
-
-## Animation
-
 <img src="https://skillicons.dev/icons?i=threejs"/>
 
 GSAP • Motion • OGL • WebGL
 
 </p>
+
+---
+
+# 🐍 Contribution Snake
+
+> **Create the GitHub Action first (see below), then this image will work.**
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Priyanshu88585/Priyanshu88585/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
 
 ---
 
@@ -159,18 +157,6 @@ Real Time Communication Platform
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu88585&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-> **Create the GitHub Action first (see below), then this image will work.**
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Priyanshu88585/Priyanshu88585/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
