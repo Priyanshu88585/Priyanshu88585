@@ -42,6 +42,7 @@
 | 💬 Sampark | Real Time Chat Platform | https://sampark-inky.vercel.app |
 | 🎬 InfiMotionX | Motion Animation Platform | https://infi-motion-x.vercel.app |
 | 🎵 Bus Wala | Music Library | https://bus-wala-seven.vercel.app |
+| 🫀 Human Atlas | 3D Model | https://human-atlas-omega.vercel.app |
 | 🎮 PS5 Trailer Platform | Coming Soon | Soon |
 | 🌿 Greenaria Buildtech | Company Website | https://greenaria-buildtech.vercel.app |
 
